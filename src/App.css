@@ -1,5 +1,15 @@
+.yellow{
+  background-color: goldenrod;
+}
+.black{
+  background-color: black;
+  color: aliceblue;
+}
+
 .App {
   text-align: center;
+  background-color: darksalmon;
+  height: 100vh;
 }
 
 .App-logo {
